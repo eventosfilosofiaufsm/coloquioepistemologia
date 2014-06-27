@@ -1,7 +1,7 @@
 title:            V Jornada Nacional de Pesquisa
 description:      Pós-graduação da Filosofia – UFSM.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://eventosfilosofiaufsm.github.io/jornadadepesquisa/
+url:              http://eventosfilosofiaufsm.github.io/jornadadepesquisa
 disqus_shortname:
 
 # Owner/author information
@@ -9,7 +9,7 @@ owner:
   name:           Pós-graduação
   avatar:         bio-photo.png
   bio:            
-  email:          your@email.com
+  email:          eventosfilosofiaufsm@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:	http://w3.ufsm.br/ppgf/
   facebook:
