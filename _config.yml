@@ -1,7 +1,7 @@
 title:            V Jornada Nacional de Pesquisa
 description:      Pós-graduação da Filosofia – UFSM.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://localhost:4000
+url:              http://eventosfilosofiaufsm.github.io/jornadadepesquisa/
 disqus_shortname:
 
 # Owner/author information
@@ -11,7 +11,7 @@ owner:
   bio:            
   email:          your@email.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: 		http://w3.ufsm.br/ppgf/
+  twitter:	http://w3.ufsm.br/ppgf/
   facebook:
   github:
   stackoverflow:
@@ -44,9 +44,9 @@ links:
   - title: Informações
     url: /informacoes/
   - title: Inscrições
-    url: /inscricoes/	
+    url: /inscricoes/
   - title: Notícias
-    url: /noticias/	
+    url: /noticias/
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Sao_Paulo
 future:      true
