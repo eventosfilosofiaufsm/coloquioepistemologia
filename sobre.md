@@ -31,6 +31,6 @@ O Programa de Pós-Graduação em Filosofia da Universidade Federal de Santa Mar
 
 ###### Promoção: [Programa de Pós-graduação em Filosofia](http://w3.ufsm.br/ppgf/) / [Departamento de Filsofia - UFSM](http://w3.ufsm.br/filosofia/)
 
-###### Apoio: [CCSH/UFSM](http://sites.multiweb.ufsm.br/ccsh/), [CAPES](http://www.capes.gov.br)
+###### Apoio: [UFSM](http://site.ufsm.br), [CCSH](http://sites.multiweb.ufsm.br/ccsh/), [CAPES](http://www.capes.gov.br)
 
 ![Smaller icon](logos.jpg)
