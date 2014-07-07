@@ -16,7 +16,7 @@ O 1º Colóquio Internacional de Epistemologia Analítica consiste em um conjunt
 O Programa de Pós-Graduação em Filosofia da Universidade Federal de Santa Maria convida a comunidade filosófica brasileira e internacional a participar do 1º Colóquio Internacional de Epistemologia Analítica.
 
 	Data: 02 a 05 de setembro de 2014	
-	Local: Universidade Federal de Santa Maria (UFSM) - Cidade Universitária Cambi, 
+	Local: Universidade Federal de Santa Maria (UFSM) - Cidade Universitária Camobi, 
 	Auditório do CCSH, Prédio 74-C
 {: .notice}
 
@@ -31,6 +31,6 @@ O Programa de Pós-Graduação em Filosofia da Universidade Federal de Santa Mar
 
 ###### Promoção: [Programa de Pós-graduação em Filosofia](http://w3.ufsm.br/ppgf/) / [Departamento de Filsofia - UFSM](http://w3.ufsm.br/filosofia/)
 
-###### Apoio: [CCSH/UFSM](http://sites.multiweb.ufsm.br/ccsh/), [CAPES](http://www.capes.gov.br), [FAPERGS](http://www.fapergs.rs.gov.br)
+###### Apoio: [CCSH/UFSM](http://sites.multiweb.ufsm.br/ccsh/), [CAPES](http://www.capes.gov.br)
 
-![Smaller icon](http://ethicscolloquiumbrazil.files.wordpress.com/2014/01/dep-2.png)
+![Smaller icon](logos.jpg)
