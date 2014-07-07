@@ -33,4 +33,8 @@ O Programa de Pós-Graduação em Filosofia da Universidade Federal de Santa Mar
 
 ###### Apoio: [UFSM](http://site.ufsm.br), [CCSH](http://sites.multiweb.ufsm.br/ccsh/), [CAPES](http://www.capes.gov.br)
 
-![Smaller icon](logos.jpg)
+![Smaller icon](https://raw.githubusercontent.com/eventosfilosofiaufsm/coloquioepistemologia/gh-pages/images/logos.jpg)
+
+<figure>
+	<a href="https://raw.githubusercontent.com/eventosfilosofiaufsm/coloquioepistemologia/gh-pages/images/logos.jpg"><img src="https://raw.githubusercontent.com/eventosfilosofiaufsm/coloquioepistemologia/gh-pages/images/logos.jpg"></a>
+</figure>
