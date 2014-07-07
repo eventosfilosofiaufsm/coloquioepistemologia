@@ -33,14 +33,14 @@ HOSPEDAGEM E DESLOCAMENTO
 OUTRAS INFORMAÇÕES
 ==================
 
-Para maiores informações sobre o colóquio, escrever para [chvhamm@gmail.com](mailto:chvhamm@gmail.com).
+Para maiores informações sobre o colóquio, escrever para [carlos.augusto.sartori@gmail.com](mailto:carlos.augusto.sartori@gmail.com).
 
 [Departamento de Filosofia - UFSM](http://w3.ufsm.br/filosofia/)
 
 Tel. 3220.8462 (Secretaria PPG Filosofia)
  
 
-	Colóquio Internacional de Ética
+	Colóquio Internacional de Epistemologia Analítica
 	Departamento de Filosofia, Cidade Universitária, Camobi
 	Av. Roraima, 1000, Bloco 74 A, Sala 2352
 	Santa Maria, RS

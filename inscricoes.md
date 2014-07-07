@@ -37,4 +37,4 @@ O valor da inscrição varia em função da categoria à qual o participante per
 Comunicações
 ============
 
-As salas e horários das comunicações aprovadas podem ser conferidas na aba [Programação](http://ethicscolloquiumbrazil.wordpress.com/programacao-program/).
+As salas e horários das comunicações aprovadas podem ser conferidas na aba [Programação](http://eventosfilosofiaufsm.github.io/jornadadepesquisa/programacao/).

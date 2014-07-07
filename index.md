@@ -1,7 +1,7 @@
 ---
 layout: home
-description: "Página da Jornada."
-tags: [UFSM, Filosofia, jornada, pós-graduação]
+description: "Página da Colóqui."
+tags: [UFSM, Filosofia, colóquio, pós-graduação]
 image:
   feature: ronai.jpg
   credit: Ronai Rocha
