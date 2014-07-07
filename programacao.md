@@ -59,7 +59,9 @@ Data | Hora | Título | Autor
 05/09/2014 | 10:00 | Conferência 19: *Testimonial knowledge and the flow of information* | John Greco
 05/09/2014 | 14:30 | **Apresentação de Trabalhos (Comunicações)** | 
 
-PROGRAMAÇÃO DAS COMUNICAÇÕES
-============
+***
+
+### PROGRAMAÇÃO DAS COMUNICAÇÕES
+
 
 Em breve.
