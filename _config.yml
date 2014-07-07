@@ -1,4 +1,4 @@
-title:            1° Colóquio Internacional de Epistemologia Analítica
+title:            Colóquio Internacional de Epistemologia Analítica
 description:      Pós-graduação da Filosofia – UFSM.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              http://eventosfilosofiaufsm.github.io/coloquioepistemologia
@@ -6,7 +6,7 @@ disqus_shortname:
 
 # Owner/author information
 owner:
-  name:           Pós-graduação
+  name:           
   avatar:         bio-photo.png
   bio:            
   email:          eventosfilosofiaufsm@gmail.com
