@@ -11,29 +11,22 @@ image:
 share: 
 ---
 
-O Colóquio Internacional de Ética e Ética Aplicada consiste em um conjunto de conferências e palestras - seguidas de debate - de pesquisadores de ética do Brasil e do exterior, promovido pelo Programa de Pós-Graduação em Filosofia da Universidade Federal de Santa Maria.	 	 
+O 1º Colóquio Internacional de Epistemologia Analítica consiste em um conjunto de conferências e palestras - seguidas de debate - de pesquisadores de epistemologia analítica do Brasil e do exterior, promovido pelo Programa de Pós-Graduação em Filosofia da Universidade Federal de Santa Maria.	 	 
 
-O Programa de Pós-Graduação em Filosofia da Universidade Federal de Santa Maria convida a comunidade filosófica brasileira e internacional a participar do Colóquio Internacional de Ética e Ética Aplicada.
+O Programa de Pós-Graduação em Filosofia da Universidade Federal de Santa Maria convida a comunidade filosófica brasileira e internacional a participar do 1º Colóquio Internacional de Epistemologia Analítica.
 
-	Data: 19 a 22 de Maio de 2014	
+	Data: 02 a 05 de setembro de 2014	
 	Local: Universidade Federal de Santa Maria (UFSM) - Cidade Universitária Cambi, 
 	Auditório do CCSH, Prédio 74-C
 {: .notice}
 
 ###### COMISSÃO ORGANIZADORA:
-[Christian Hamm (Presidente)](http://lattes.cnpq.br/5301026925485532)
-
-[Marcelo Fabri](http://lattes.cnpq.br/9122803302644811)
-
-[Ricardo Bins di Napoli](http://lattes.cnpq.br/0018710144049443)
+[Alexandre Meyer Luz](http://lattes.cnpq.br/0299421437669387) (UFSC)
+[Carlos Augusto Sartori (Presidente)](http://lattes.cnpq.br/6830220445412069) (UFSM)[César Schirmer dos Santos](http://lattes.cnpq.br/4518010795079534) (UFSM)
 
 
 ###### COMISSÃO TÉCNICA-CIENTÍFICA:
-[Frank Thomas Sautter (Presidente)](http://lattes.cnpq.br/2804652028967760)
 
-[Flávia Carvalho Chagas](http://lattes.cnpq.br/3056277862547671)
-
-[Flávio Williges](http://lattes.cnpq.br/5467666371380781)
 
 
 ###### Promoção: [Programa de Pós-graduação em Filosofia](http://w3.ufsm.br/ppgf/) / [Departamento de Filsofia - UFSM](http://w3.ufsm.br/filosofia/)
