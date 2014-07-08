@@ -13,7 +13,7 @@ share:
 ---
 
 
-{% highlight tex %}
+{% highlight html %}
 \documentclass[12pt,a4paper]{article}
 \usepackage[T1]{fontenc}
 \usepackage[a4paper]{geometry}
@@ -35,8 +35,6 @@ share:
 Início do texto...
 
 
-
-
 \begin{thebibliography}{BIBLIOGRAFIA}
 
 \bibitem{1} KANT, Immanuel. \textbf{Crítica da Razão Pura}. Tradução de Manuela Pinto dos Santos e Alexandre Fradique Morujão. 7. ed. Lisboa: Fundação Calouste Gulbenkian, 2010.
@@ -44,4 +42,18 @@ Início do texto...
 \end{thebibliography}
 
 \end{document}
+{% endhighlight %}
+
+
+{% highlight html linenos %}
+{% raw %}
+<nav class="pagination" role="navigation">
+    {% if page.previous %}
+        <a href="{{ site.url }}{{ page.previous.url }}" class="btn" title="{{ page.previous.title }}">Previous article</a>
+    {% endif %}
+    {% if page.next %}
+        <a href="{{ site.url }}{{ page.next.url }}" class="btn" title="{{ page.next.title }}">Next article</a>
+    {% endif %}
+</nav><!-- /.pagination -->
+{% endraw %}
 {% endhighlight %}
