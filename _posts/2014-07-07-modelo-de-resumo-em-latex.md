@@ -13,7 +13,7 @@ share:
 ---
 
 
-
+{% raw %}
 {% highlight latex %}
 \documentclass[12pt,a4paper]{article}
 \usepackage[T1]{fontenc}
@@ -46,3 +46,4 @@ Início do texto...
 
 \end{document}
 {% endhighlight %}
+{% endraw %}
