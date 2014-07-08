@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Modelo de resumo em Latex"
-modified: 2014-07-07 21:28:17 -0300
-category: [material]
-tags: [material]
+modified: 2014-07-07 21:30:00 -0300
+category: []
+tags: []
 image:
   feature: 
   credit: 
