@@ -13,7 +13,7 @@ share:
 ---
 
 
-{% highlight latex %}
+{% highlight tex %}
 \documentclass[12pt,a4paper]{article}
 \usepackage[T1]{fontenc}
 \usepackage[a4paper]{geometry}
@@ -45,11 +45,3 @@ Início do texto...
 
 \end{document}
 {% endhighlight %}
-
-```css
-#container {
-    float: left;
-    margin: 0 -240px 0 0;
-    width: 100%;
-}
-```
