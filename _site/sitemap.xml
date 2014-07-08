@@ -1,58 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://localhost:4000</loc>
+        <loc>http://eventosfilosofiaufsm.github.io/coloquioepistemologia</loc>
     </url>
     
     
     <url>
-        <loc>http://localhost:4000/404.html</loc>
+        <loc>http://eventosfilosofiaufsm.github.io/coloquioepistemologia/404.html</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/feed.xml</loc>
+        <loc>http://eventosfilosofiaufsm.github.io/coloquioepistemologia/feed.xml</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/index.html</loc>
+        <loc>http://eventosfilosofiaufsm.github.io/coloquioepistemologia/index.html</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/index.html</loc>
+        <loc>http://eventosfilosofiaufsm.github.io/coloquioepistemologia/informacoes/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/informacoes/</loc>
+        <loc>http://eventosfilosofiaufsm.github.io/coloquioepistemologia/inscricoes/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/inscricoes/</loc>
+        <loc>http://eventosfilosofiaufsm.github.io/coloquioepistemologia/noticias/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/noticias/</loc>
+        <loc>http://eventosfilosofiaufsm.github.io/coloquioepistemologia/palestrantes/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/palestrantes/</loc>
+        <loc>http://eventosfilosofiaufsm.github.io/coloquioepistemologia/programacao/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/programacao/</loc>
+        <loc>http://eventosfilosofiaufsm.github.io/coloquioepistemologia/sitemap.xml</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/sitemap.xml</loc>
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/sobre/</loc>
+        <loc>http://eventosfilosofiaufsm.github.io/coloquioepistemologia/sobre/</loc>
     </url>
     
 
     
     <url>
-        <loc>http://localhost:4000/%5B%5D/inscricoes-abertas/</loc>
+        <loc>http://eventosfilosofiaufsm.github.io/coloquioepistemologia/%5B%5D/modelo-de-resumo-em-odt/</loc>
+    </url>
+    
+    <url>
+        <loc>http://eventosfilosofiaufsm.github.io/coloquioepistemologia/%5B%5D/modelo-de-resumo-em-latex/</loc>
+    </url>
+    
+    <url>
+        <loc>http://eventosfilosofiaufsm.github.io/coloquioepistemologia/%5B%5D/inscricoes-abertas/</loc>
     </url>
     
 </urlset>

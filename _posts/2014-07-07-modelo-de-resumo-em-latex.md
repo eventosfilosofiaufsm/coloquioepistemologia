@@ -12,6 +12,8 @@ comments:
 share: 
 ---
 
+
+
 {% highlight latex %}
 \documentclass[12pt,a4paper]{article}
 \usepackage[T1]{fontenc}
@@ -35,8 +37,6 @@ Início do texto...
 
 
 
-%Início da bibliografia. 
-    %Recomenda-se o uso do bibtex ou biblatex.
 
 \begin{thebibliography}{BIBLIOGRAFIA}
 
@@ -44,4 +44,5 @@ Início do texto...
 
 \end{thebibliography}
 
-\end{document}{% endhighlight %}
+\end{document}
+{% endhighlight %}
