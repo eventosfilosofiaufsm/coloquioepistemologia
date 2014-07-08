@@ -13,8 +13,8 @@ share:
 ---
 
 
-{% raw %}
 {% highlight latex %}
+{% raw %}
 \documentclass[12pt,a4paper]{article}
 \usepackage[T1]{fontenc}
 \usepackage[a4paper]{geometry}
@@ -45,5 +45,5 @@ Início do texto...
 \end{thebibliography}
 
 \end{document}
-{% endhighlight %}
 {% endraw %}
+{% endhighlight %}
