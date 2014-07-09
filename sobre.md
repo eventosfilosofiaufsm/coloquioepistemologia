@@ -21,14 +21,20 @@ O Programa de Pós-Graduação em Filosofia da Universidade Federal de Santa Mar
 {: .notice}
 
 ###### COMISSÃO ORGANIZADORA:
+
 [Alexandre Meyer Luz](http://lattes.cnpq.br/0299421437669387) (UFSC)
 [Carlos Augusto Sartori (Presidente)](http://lattes.cnpq.br/6830220445412069) (UFSM)[César Schirmer dos Santos](http://lattes.cnpq.br/4518010795079534) (UFSM)
 
 
 ###### COMISSÃO TÉCNICA-CIENTÍFICA:
 
-[Albertinho Luiz Gallina](http://lattes.cnpq.br/0750109262601371) (UFSM)[Alexandre Meyer Luz](http://lattes.cnpq.br/0299421437669387) (UFSC)
-[Carlos Augusto Sartori (Presidente)](http://lattes.cnpq.br/6830220445412069) (UFSM)[Emerson Carlos Valcarenghi](http://lattes.cnpq.br/3816556371255616) (UnB)[Felipe de Matos Muller](http://lattes.cnpq.br/4097781525514657) (PUCRS)[Tiegüe Vieira Rodrigues](http://lattes.cnpq.br/4547029422865527) (UFMT)
+[Albertinho Luiz Gallina](http://lattes.cnpq.br/0750109262601371) (UFSM)
+[Alexandre Meyer Luz](http://lattes.cnpq.br/0299421437669387) (UFSC)
+
+[Carlos Augusto Sartori (Presidente)](http://lattes.cnpq.br/6830220445412069) (UFSM)
+[Emerson Carlos Valcarenghi](http://lattes.cnpq.br/3816556371255616) (UnB)
+[Felipe de Matos Muller](http://lattes.cnpq.br/4097781525514657) (PUCRS)
+[Tiegüe Vieira Rodrigues](http://lattes.cnpq.br/4547029422865527) (UFMT)
 
 
 ###### Promoção: [Programa de Pós-graduação em Filosofia](http://w3.ufsm.br/ppgf/) / [Departamento de Filsofia - UFSM](http://w3.ufsm.br/filosofia/)
