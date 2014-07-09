@@ -43,8 +43,7 @@ O Programa de Pós-Graduação em Filosofia da Universidade Federal de Santa Mar
 
 [Grupo de Pesquisa Epistemologia Analítica](http://plsql1.cnpq.br/buscaoperacional/detalhegrupo.jsp?grupo=0006701SX32QP8)[Grupo de Pesquisa Epistemologia Social](http://plsql1.cnpq.br/buscaoperacional/detalhegrupo.jsp?grupo=0006701MV7GOXB)[Grupo de Estudos em Metafísica, Epistemologia, Linguagem e Lógica](https://sites.google.com/site/metafisicaeepistemologia/)
 
-
-
+    
 
 ![Smaller icon](https://raw.githubusercontent.com/eventosfilosofiaufsm/coloquioepistemologia/gh-pages/images/logos.png)
 
