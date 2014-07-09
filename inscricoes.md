@@ -11,19 +11,17 @@ image:
 share: 
 ---
 
-Inscrições abertas a partir de 24 de abril de 2014.
+Inscrições abertas a partir de 07 de julho de 2014.
+As inscrições encerram dia 31 de julho de 2014.
 
-Para realizar sua inscrição, envie um email com o assunto "Inscrição" para [eticafilosofiaufsm@gmail.com](mailto:eticafilosofiaufsm@gmail.com?subject=Inscrição&amp;body=Nome;%0D%0AFiliação;%0D%0AAnexo.). 
+Para realizar sua inscrição, envie um email com o assunto "Inscrição" para [email@gmail.com](mailto:email@gmail.com?subject=Inscrição&amp;body=Nome;%0D%0AFiliação;%0D%0AAnexo.). 
 
 Inclua seu nome e filiação institucional no conteúdo do email. Em caso de submissão de trabalho, inclua também, em anexo, um resumo seguindo as normas especificadas abaixo.
 {: .notice}
 
 ***
-O valor da inscrição varia em função da categoria à qual o participante pertence. O pagamento deve ser realizado no local do evento:
 
-	Apresentadores: gratuito
-	Estudantes: R$ 10,00
-	Demais participantes: R$ 20,00
+	O valor da inscrição: R$ 10,00
 
 ##### REGRAS PARA SUBMISSÃO DE TRABALHO
 
