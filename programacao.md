@@ -26,10 +26,11 @@ Data | Hora | Título | Autor
 
 Data | Hora | Título | Autor
 ------------- | --- | --
-03/09/2014 | 09:00 | Conferência 5: - | Albertinho Luis Gallina
+03/09/2014 | 09:00 | Conferência 5: TBA | Albertinho Luis Gallina
 03/09/2014 | 10:00 | Conferência 6: *Knowledge and information* |  Tiegüe Vieira Rodrigues
 03/09/2014 | 11:00 | **Apresentação de Trabalhos (Comunicações)** | 
-03/09/2014 | 14:30 | Conferência 7: *Understanding and Knowledge (Entendimento e Conhecimento)* | Felipe Matos Muller03/09/2014 | 15:30 | Conferência 8: *Self-knowledge as an achievement* | César Schirmer dos Santos
+03/09/2014 | 14:30 | Conferência 7: *Understanding and Knowledge (Entendimento e Conhecimento)* | Felipe Matos Muller
+03/09/2014 | 15:30 | Conferência 8: *Virtudes Intelectuais e Pirronismo* | Waldomiro José da Silva Filho
 03/09/2014 | 16:30 | Coffee break | 
 03/09/2014 | 17:00 | Conferência 9: *The virtue of knowing how* | Felipe Rocha L. dos Santos
 03/09/2014 | 19:00 | Conferência 10: *Testemunho, Justificação e Conhecimento* | Carlos Augusto Sartori
@@ -55,8 +56,7 @@ Data | Hora | Título | Autor
 
 Data | Hora | Título | Autor
 ------------- | --- | --
-05/09/2014 | 09:00 | Conferência 18: *Virtudes Intelectuais e Pirronismo* | Waldomiro José da Silva Filho
-05/09/2014 | 10:00 | Conferência 19: *Testimonial knowledge and the flow of information* | John Greco
+05/09/2014 | 09:00 | Conferência 18: *Testimonial knowledge and the flow of information* | John Greco
 05/09/2014 | 14:30 | **Apresentação de Trabalhos (Comunicações)** | 
 
 ***
