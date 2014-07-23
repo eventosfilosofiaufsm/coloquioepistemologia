@@ -25,7 +25,7 @@ Inclua seu nome e filiação institucional no conteúdo do email. Em caso de sub
 
 ##### REGRAS PARA SUBMISSÃO DE TRABALHO
 
-1. Poderão participar alunos de pós-graduação (em nível de especialização, mestrado ou doutorado) e professores dos departamentos de Filosofia. Alunos de graduação poderão submeter trabalhos desde que o mesmo seja avaliado e enviado por seu orientador. Cada participante poderá participar com apenas um trabalho. As apresentações precisam respeitar o tema geral do evento.
+1. Poderão participar alunos de graduação, pós-graduação e professores dos departamentos de Filosofia. Cada participante poderá participar com apenas um trabalho. As apresentações precisam respeitar o tema geral do evento.
 2. As inscrições dos trabalhos, mediante submissão de resumo, deverão ser realizadas até o dia 31 de julho de 2014. Os resumos encaminhados após essa data não serão analisados.
 3. Os resumos dos trabalhos deverão ser enviados exclusivamente via e-mail em arquivo digital, <a href="https://raw.githubusercontent.com/eventosfilosofiaufsm/coloquioepistemologia/gh-pages/modelo-de-resumo.odt" target="_blank">.odt</a>, .doc(x), ou segundo o <a href="http://ethicscolloquiumbrazil.wordpress.com/modelo-latex/" target="_blank">modelo em Latex</a>. Fonte Times New Roman (ou similar), tamanho 12, espaço simples, alinhamento justificado. O resumo deverá ter no mínimo 400 e no máximo 500 palavras. Além disso, o resumo deve trazer o título; nome completo do autor; filiação institucional (universidade – sigla – e-mail) e área específica em que o trabalho se enquadra. A lista dos trabalhos aceitos será divulgada em breve no site do evento.
 4. O tempo de apresentação de cada trabalho selecionado será de 20 minutos, seguidos de 10 minutos de debate.
