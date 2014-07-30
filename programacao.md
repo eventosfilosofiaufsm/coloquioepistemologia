@@ -35,7 +35,7 @@ Data | Hora | Título | Autor
 03/09/2014 | 15:30 | Conferência 9: *Satisfying understanding* | John Greco
 03/09/2014 | 17:00 | Coffee break | 
 03/09/2014 | 17:30 | Conferência 10: *Virtudes intelectuais e pirronismo* | Waldomiro José da Silva Filho
-03/09/2014 | 19:00 | Conferência 11: *The virtue of knowing how* | Felipe Rocha L. dos Santos
+03/09/2014 | 19:00 | Conferência 11: *The virtue of knowing how* | Felipe Rocha Lima Santos
 03/09/2014 | 20:00 | Conferência 12: *Stopping the regress with knowledge-how* | Luis Fernando Rosa
 
 #### Quinta-feira, 04/09/2014
