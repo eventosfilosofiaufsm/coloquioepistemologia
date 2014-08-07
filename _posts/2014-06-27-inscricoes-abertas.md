@@ -12,4 +12,4 @@ comments:
 share: 
 ---
 
-Já estão abertas as inscrições para a Jornada Nacional de Pesquisa. Verifique o valor e as regras de submissão na aba  [Inscrições](http://eventosfilosofiaufsm.github.io/coloquioepistemologia/inscricoes/)
+Já estão abertas as inscrições para a Jornada Internacional de Pesquisa. Verifique o valor e as regras de submissão na aba  [Inscrições](http://eventosfilosofiaufsm.github.io/coloquioepistemologia/inscricoes/)
